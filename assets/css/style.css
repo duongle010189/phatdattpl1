@@ -7286,8 +7286,8 @@ blockquote.blockquote .author {
 .team-slider-column-wrapper {
   position: absolute;
   top: 25px;
-  right: 160px;
-  max-width: 58%;
+  right: 30px;
+  max-width: 60%;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1499px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .team-slider-column-wrapper {
