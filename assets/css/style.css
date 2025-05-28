@@ -3911,7 +3911,7 @@ body {
 }
 
 body {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Barlow", sans-serif;
     font-size: 20px;
     font-weight: 500;
     font-style: normal;
@@ -3931,7 +3931,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Barlow", sans-serif;
     font-weight: 600;
     line-height: 1.23;
     margin-top: 0;
