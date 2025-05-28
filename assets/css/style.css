@@ -3913,7 +3913,7 @@ body {
 body {
     font-family: "Noto Sans", sans-serif;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 200;
     font-style: normal;
     line-height: 1.5;
     position: relative;
@@ -3932,7 +3932,7 @@ h4,
 h5,
 h6 {
     font-family: "Noto Sans", sans-serif;
-    font-weight: 600;
+    font-weight: 300;
     line-height: 1.23;
     margin-top: 0;
     margin-bottom: 0;
