@@ -3911,9 +3911,9 @@ body {
 }
 
 body {
-    font-family: "Barlow", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
     line-height: 1.5;
     position: relative;
@@ -3931,8 +3931,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Barlow", sans-serif;
-    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
     line-height: 1.23;
     margin-top: 0;
     margin-bottom: 0;
