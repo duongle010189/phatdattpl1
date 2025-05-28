@@ -3911,15 +3911,15 @@ body {
 }
 
 body {
-  font-family: "Nunito", sans-serif;
-  font-size: 20px;
-  font-weight: 500;
-  font-style: normal;
-  line-height: 1.5;
-  position: relative;
-  visibility: visible;
-  color: #2B2D37;
-  background-color: #FFFFFF;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1.5;
+    position: relative;
+    visibility: visible;
+    color: #2B2D37;
+    background-color: #FFFFFF;
 }
 body.no-overflow {
   overflow: hidden;
@@ -3931,12 +3931,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Nunito", sans-serif;
-  font-weight: 600;
-  line-height: 1.23;
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #2B2D37;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+    line-height: 1.23;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #2B2D37;
 }
 
 h1 {
