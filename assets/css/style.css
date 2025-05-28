@@ -3931,13 +3931,8 @@ h3,
 h4,
 h5,
 h6 {
-<<<<<<< HEAD
     font-family: "Barlow", sans-serif;
-    font-weight: 600;
-=======
-    font-family: "Noto Sans", sans-serif;
     font-weight: 500;
->>>>>>> cae1ae5ee2daa183df48813a202206320a9e9bf7
     line-height: 1.23;
     margin-top: 0;
     margin-bottom: 0;
